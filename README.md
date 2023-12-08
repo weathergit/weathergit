@@ -34,7 +34,9 @@ I'm a **Phd candidate🎓 [@ NorthWest A&F University 🅾️](https://www.nwsua
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/21003710?s=48&v=4"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LaTeX_project_logo_bird.svg/2560px-LaTeX_project_logo_bird.svg.png"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/513560?s=48&v=4"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/7388996?s=48&v=4"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/53057619?s=48&v=4"></code>
 
 
 ### 🚀 Quick Stats
