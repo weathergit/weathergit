@@ -46,5 +46,5 @@ I'm a **Phd candidate🎓 [@ NorthWest A&F University 🅾️](https://www.nwsua
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats-weathergit.vercel.app/api?username=weathergit&show_icons=true&line_height=21&theme=react" alt="Tian Qin's Github Stats" />
+<img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=weathergit" alt="Tian Qin's Github Stats" />
 </p>
