@@ -15,12 +15,12 @@ I'm a **Phd candidate🎓 [@ NorthWest A&F University 🅾️](https://www.nwsua
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently Phd candidate at **[@ NorthWest A&F University - Natural resources & Enviroment college](https://zhxy.nwafu.edu.cn/)**
+- 🔭 I’m currently Phd candidate at **[@ NorthWest A&F University - College of Natural resources & Enviroment](https://zhxy.nwafu.edu.cn/)**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 <span style='color: #FDDF5B'>Machine Learning & Data Science</span>
-  - 🖼 <span style='color: #FDDF5B'>Computer Vision</span>
-  - 🛠 <span style='color: #FDDF5B'>Agriculture modeling & GIS</span>
-  - 🤖 <span style='color: #FDDF5B'>Plant Phenotyping</span>
+  - 📊 <span style='color: red'>Machine Learning & Data Science</span>
+  - 🖼 <span style='color: red'>Computer Vision</span>
+  - 🛠 <span style='color: red'>Agriculture modeling & GIS</span>
+  - 🤖 <span style='color: red'>Plant Phenotyping</span>
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on developing the crop simulation models & machine leaning algorithms
 - 💬 Ask me about Python, ML, DL, CV, Crop science
