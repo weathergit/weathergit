@@ -33,15 +33,8 @@ I'm a **Phd candidate🎓 [@ NorthWest A&F University 🅾️](https://www.nwsua
 
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
-  <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code> 
+<code><img height="30" src="https://avatars.githubusercontent.com/u/21003710?s=48&v=4"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LaTeX_project_logo_bird.svg/2560px-LaTeX_project_logo_bird.svg.png"></code>
 
 
 ### 🚀 Quick Stats
