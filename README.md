@@ -8,24 +8,24 @@
 [![Orcid Badge](https://img.shields.io/badge/-Orcid-green?style=flat-square&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0001-8897-1714)](https://orcid.org/0000-0001-8897-1714)
 
 ### About me
-I'm a **PhD candidate🎓 [@ NorthWest A&F University 🅾️](https://www.nwsuaf.edu.cn/)** majoring in GIS/Agriculture. <br/><br/>
+I'm a **PhD candidate🎓 @ NorthWest A&F University [Chinese](https://www.nwsuaf.edu.cn/)/[English](https://en.nwsuaf.edu.cn/)** majoring in GIS/Agriculture. <br/><br/>
 
 
 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently PhD candidate at **[@ NorthWest A&F University - College of Natural resources & Enviroment](https://zhxy.nwafu.edu.cn/)**
+- 🔭 I’m currently PhD candidate at **@ NorthWest A&F University - College of Natural resources & Enviroment [Chinese](https://zhxy.nwafu.edu.cn/)|[English](https://zhxy.nwafu.edu.cn/english/)**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 <span style="color:red">Machine Learning & Data Science</span>
-  - 🖼 <span style="color:red">Computer Vision</span>
+  - 🖼 <span style="color:red">Computer Vision and Image Processing</span>
   - 🛠 <span style="color:red">Agriculture modeling & GIS</span>
-  - 🤖 <span style="color:red">Plant Phenotyping</span>
+  - 🤖 <span style="color:red">Plant Phenotyping and Remote Sensing</span>
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on developing the crop simulation models & machine leaning algorithms
 - 💬 Ask me about Python, ML, DL, CV, Crop science
 - 📙 Check out my [Resume](https://github.com/weathergit/weathergit/blob/main/TianQi.pdf)
-- 🎉 Fun-Fact: I ❤️ coding and writing🚀 and ⚾
+- 🎉 Fun-Fact: I ❤️ coding and writing🚀 and football⚾
 
   
 ### 🖥️ My DevSetup
