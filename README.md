@@ -24,7 +24,7 @@ I'm a **PhD candidate🎓 @ NorthWest A&F University [Chinese](https://www.nwsua
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on developing the crop simulation models & machine leaning algorithms
 - 💬 Ask me about Python, ML, DL, CV, Crop science
-- 📙 Check out my [Resume](https://github.com/weathergit/weathergit/blob/main/TianQi.pdf)
+- 📙 Check out my [Resume](https://github.com/weathergit/weathergit/blob/main/TianQi_CV_EN.pdf)
 - 🎉 Fun-Fact: I ❤️ coding and writing🚀 and football⚾
 
   
