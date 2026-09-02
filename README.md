@@ -10,7 +10,7 @@
 ### About me
 I'm a **PhD 🎓 @ NorthWest A&F University [Chinese](https://www.nwsuaf.edu.cn/)/[English](https://en.nwsuaf.edu.cn/)** majoring in GIS/Agriculture. <br/><br/>
 
-and **Now** working as a postDoc in China Agriculture Universityp[CAU](https://www.cau.edu.cn/).
+and **Now** working as a postDoc in [China Agriculture University](https://www.cau.edu.cn/).
 
 
 ## ⚡️ A Few Quick Facts
