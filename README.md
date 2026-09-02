@@ -8,9 +8,9 @@
 [![Orcid Badge](https://img.shields.io/badge/-Orcid-green?style=flat-square&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0001-8897-1714)](https://orcid.org/0000-0001-8897-1714)
 
 ### About me
-I'm a **PhD candidate🎓 @ NorthWest A&F University [Chinese](https://www.nwsuaf.edu.cn/)/[English](https://en.nwsuaf.edu.cn/)** majoring in GIS/Agriculture. <br/><br/>
+I'm a **PhD 🎓 @ NorthWest A&F University [Chinese](https://www.nwsuaf.edu.cn/)/[English](https://en.nwsuaf.edu.cn/)** majoring in GIS/Agriculture. <br/><br/>
 
-
+and **Now** working as a postDoc in China Agriculture Universityp[CAU](https://www.cau.edu.cn/).
 
 
 ## ⚡️ A Few Quick Facts
